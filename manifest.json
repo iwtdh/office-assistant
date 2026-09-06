@@ -1,0 +1,10 @@
+{
+	"id": "lmstudio-office-assistant",
+	"name": "LM Studio本地办公助手",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.16",
+	"description": "调用LM Studio本地Qwen3.5-9B，增强Obsidian办公能力：摘要、纪要、公文润色、邮件改写、古文翻译、工程施工报价等",
+	"author": "涂丰【iwtdh@163.com】",
+	"authorUrl": "mailto:iwtdh@163.com",
+	"isDesktopOnly": true
+}

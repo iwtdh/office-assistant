@@ -1,0 +1,19 @@
+{
+	"name": "obsidian-lmstudio-office-assistant",
+	"version": "1.0.0",
+	"description": "Obsidian + LM Studio + Qwen3.5-9B 办公增强插件，支持工程施工报价",
+	"author": "涂丰 <iwtdh@163.com>",
+	"main": "main.js",
+	"scripts": {
+		"dev": "node esbuild.config.mjs",
+		"build": "tsc --noEmit && node esbuild.config.mjs production"
+	},
+	"devDependencies": {
+		"@types/node": "^16.11.6",
+		"builtin-modules": "^5.3.0",
+		"esbuild": "^0.17.3",
+		"obsidian": "latest",
+		"tslib": "^2.4.0",
+		"typescript": "^4.7.4"
+	}
+}
