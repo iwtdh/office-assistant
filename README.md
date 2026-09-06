@@ -1,6 +1,7 @@
-# LM Studio 本地办公助手
+# Office Assistant
 
-> Obsidian 插件 · 支持 **本地 LM Studio** 与 **在线大模型 API** 双模式 · 纯离线可选 · 数据不出本机
+> Obsidian 插件 · 支持 **本地 LM Studio** 与 **在线大模型 API** 双模式 · 纯离线可选 · 数据不出本机  
+> **插件 ID**：`office-assistant`
 
 **作者**：涂丰【iwtdh@163.com】  
 **版本**：1.1.0  

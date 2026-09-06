@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-lmstudio-office-assistant",
-	"version": "1.0.0",
-	"description": "Obsidian + LM Studio + Qwen3.5-9B 办公增强插件，支持工程施工报价",
+	"name": "obsidian-office-assistant",
+	"version": "1.1.0",
+	"description": "Obsidian 办公助手插件：本地/在线大模型增强办公能力",
 	"author": "涂丰 <iwtdh@163.com>",
 	"main": "main.js",
 	"scripts": {
